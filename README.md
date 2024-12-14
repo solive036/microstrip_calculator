@@ -1,2 +1,2 @@
 # microstrip_calculator
-A simple calculator for calculating the dimensions of microstrip lines and patch antennas.
+A simple script for calculating the dimensions of microstrip lines and patch antennas.
